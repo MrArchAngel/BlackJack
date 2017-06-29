@@ -1,0 +1,5 @@
+D:\C# Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+D:\C# Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+D:\C# Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+D:\C# Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+D:\C# Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
